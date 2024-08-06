@@ -1,0 +1,33 @@
+.container {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+}
+
+mat-card-header {
+    background-color: beige;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+}
